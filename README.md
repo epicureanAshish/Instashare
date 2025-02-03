@@ -28,7 +28,7 @@ InstaShare is a modern Instagram clone built using **Jetpack Compose**. It featu
 1. Clone the repository:
    ```sh
    git clone https://github.com/epicureanAshish/Instashare.git
-   cd InstaShare
+   cd Instashare
    ```
 
 2. Open the project in **Android Studio** (preferably Arctic Fox or later).
